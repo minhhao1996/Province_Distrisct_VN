@@ -6539,6 +6539,107 @@
         "code": "760",
         "parent_code": "79"
     },
+      "769": {
+        "name": "Quận 2",
+        "type": "quan",
+        "slug": "2",
+        "name_with_type": "Quận 2",
+        "path": "2, Hồ Chí Minh",
+        "path_with_type": "Quận 2, Thành phố Hồ Chí Minh",
+        "code": "769",
+        "parent_code": "79"
+    },
+    "770": {
+        "name": "Quận 3",
+        "type": "quan",
+        "slug": "3",
+        "name_with_type": "Quận 3",
+        "path": "3, Hồ Chí Minh",
+        "path_with_type": "Quận 3, Thành phố Hồ Chí Minh",
+        "code": "770",
+        "parent_code": "79"
+    },
+      "773": {
+        "name": "Quận 4",
+        "type": "quan",
+        "slug": "4",
+        "name_with_type": "Quận 4",
+        "path": "4, Hồ Chí Minh",
+        "path_with_type": "Quận 4, Thành phố Hồ Chí Minh",
+        "code": "773",
+        "parent_code": "79"
+    },
+    "774": {
+        "name": "Quận 5",
+        "type": "quan",
+        "slug": "5",
+        "name_with_type": "Quận 5",
+        "path": "5, Hồ Chí Minh",
+        "path_with_type": "Quận 5, Thành phố Hồ Chí Minh",
+        "code": "774",
+        "parent_code": "79"
+    },
+    "775": {
+        "name": "Quận 6",
+        "type": "quan",
+        "slug": "6",
+        "name_with_type": "Quận 6",
+        "path": "6, Hồ Chí Minh",
+        "path_with_type": "Quận 6, Thành phố Hồ Chí Minh",
+        "code": "775",
+        "parent_code": "79"
+    },
+      "778": {
+        "name": "Quận 7",
+        "type": "quan",
+        "slug": "7",
+        "name_with_type": "Quận 7",
+        "path": "7, Hồ Chí Minh",
+        "path_with_type": "Quận 7, Thành phố Hồ Chí Minh",
+        "code": "778",
+        "parent_code": "79"
+    },
+    "776": {
+        "name": "Quận 8",
+        "type": "quan",
+        "slug": "8",
+        "name_with_type": "Quận 8",
+        "path": "8, Hồ Chí Minh",
+        "path_with_type": "Quận 8, Thành phố Hồ Chí Minh",
+        "code": "776",
+        "parent_code": "79"
+    },
+        "763": {
+        "name": "Quận 9",
+        "type": "quan",
+        "slug": "9",
+        "name_with_type": "Quận 9",
+        "path": "9, Hồ Chí Minh",
+        "path_with_type": "Quận 9, Thành phố Hồ Chí Minh",
+        "code": "763",
+        "parent_code": "79"
+    },
+     
+    "771": {
+        "name": "Quận 10",
+        "type": "quan",
+        "slug": "10",
+        "name_with_type": "Quận 10",
+        "path": "10, Hồ Chí Minh",
+        "path_with_type": "Quận 10, Thành phố Hồ Chí Minh",
+        "code": "771",
+        "parent_code": "79"
+    },
+    "772": {
+        "name": "Quận 11",
+        "type": "quan",
+        "slug": "11",
+        "name_with_type": "Quận 11",
+        "path": "11, Hồ Chí Minh",
+        "path_with_type": "Quận 11, Thành phố Hồ Chí Minh",
+        "code": "772",
+        "parent_code": "79"
+    },
     "761": {
         "name": "Quận 12",
         "type": "quan",
@@ -6557,16 +6658,6 @@
         "path": "Thủ Đức, Hồ Chí Minh",
         "path_with_type": "Quận Thủ Đức, Thành phố Hồ Chí Minh",
         "code": "762",
-        "parent_code": "79"
-    },
-    "763": {
-        "name": "Quận 9",
-        "type": "quan",
-        "slug": "9",
-        "name_with_type": "Quận 9",
-        "path": "9, Hồ Chí Minh",
-        "path_with_type": "Quận 9, Thành phố Hồ Chí Minh",
-        "code": "763",
         "parent_code": "79"
     },
     "764": {
@@ -6619,86 +6710,6 @@
         "code": "768",
         "parent_code": "79"
     },
-    "769": {
-        "name": "Quận 2",
-        "type": "quan",
-        "slug": "2",
-        "name_with_type": "Quận 2",
-        "path": "2, Hồ Chí Minh",
-        "path_with_type": "Quận 2, Thành phố Hồ Chí Minh",
-        "code": "769",
-        "parent_code": "79"
-    },
-    "770": {
-        "name": "Quận 3",
-        "type": "quan",
-        "slug": "3",
-        "name_with_type": "Quận 3",
-        "path": "3, Hồ Chí Minh",
-        "path_with_type": "Quận 3, Thành phố Hồ Chí Minh",
-        "code": "770",
-        "parent_code": "79"
-    },
-    "771": {
-        "name": "Quận 10",
-        "type": "quan",
-        "slug": "10",
-        "name_with_type": "Quận 10",
-        "path": "10, Hồ Chí Minh",
-        "path_with_type": "Quận 10, Thành phố Hồ Chí Minh",
-        "code": "771",
-        "parent_code": "79"
-    },
-    "772": {
-        "name": "Quận 11",
-        "type": "quan",
-        "slug": "11",
-        "name_with_type": "Quận 11",
-        "path": "11, Hồ Chí Minh",
-        "path_with_type": "Quận 11, Thành phố Hồ Chí Minh",
-        "code": "772",
-        "parent_code": "79"
-    },
-    "773": {
-        "name": "Quận 4",
-        "type": "quan",
-        "slug": "4",
-        "name_with_type": "Quận 4",
-        "path": "4, Hồ Chí Minh",
-        "path_with_type": "Quận 4, Thành phố Hồ Chí Minh",
-        "code": "773",
-        "parent_code": "79"
-    },
-    "774": {
-        "name": "Quận 5",
-        "type": "quan",
-        "slug": "5",
-        "name_with_type": "Quận 5",
-        "path": "5, Hồ Chí Minh",
-        "path_with_type": "Quận 5, Thành phố Hồ Chí Minh",
-        "code": "774",
-        "parent_code": "79"
-    },
-    "775": {
-        "name": "Quận 6",
-        "type": "quan",
-        "slug": "6",
-        "name_with_type": "Quận 6",
-        "path": "6, Hồ Chí Minh",
-        "path_with_type": "Quận 6, Thành phố Hồ Chí Minh",
-        "code": "775",
-        "parent_code": "79"
-    },
-    "776": {
-        "name": "Quận 8",
-        "type": "quan",
-        "slug": "8",
-        "name_with_type": "Quận 8",
-        "path": "8, Hồ Chí Minh",
-        "path_with_type": "Quận 8, Thành phố Hồ Chí Minh",
-        "code": "776",
-        "parent_code": "79"
-    },
     "777": {
         "name": "Quận Bình Tân",
         "type": "quan",
@@ -6709,16 +6720,7 @@
         "code": "777",
         "parent_code": "79"
     },
-    "778": {
-        "name": "Quận 7",
-        "type": "quan",
-        "slug": "7",
-        "name_with_type": "Quận 7",
-        "path": "7, Hồ Chí Minh",
-        "path_with_type": "Quận 7, Thành phố Hồ Chí Minh",
-        "code": "778",
-        "parent_code": "79"
-    },
+  
     "783": {
         "name": "Huyện Củ Chi",
         "type": "huyen",
